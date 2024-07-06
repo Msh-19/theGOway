@@ -11,7 +11,7 @@ import (
     "time"
 )
 
-const apiKey = "b3d489fd87d31926206675893e28d4a5" 
+const apiKey = "API_KEY" 
 
 type WeatherResponse struct {
     Name    string `json:"name"`
